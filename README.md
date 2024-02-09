@@ -11,6 +11,7 @@ Uma página interativa de perguntas, onde você seleciona a resposta correta e s
 
 ## Linguagens Utilizadas
 
-- HTML para a estrutura
-- CSS para a "beleza"
-- JS para a inteligência do código
+- HTML 
+- CSS 
+- JS
+- GitHub
